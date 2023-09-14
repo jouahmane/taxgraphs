@@ -26,8 +26,8 @@
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 2300,
-            "married": 4600
+            "single": 2000,
+            "married": 4000
           }
         },
         "personalExemption": {
@@ -56,8 +56,8 @@
         }
       },
       "source": {
-        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
+        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
       }
     }
   }

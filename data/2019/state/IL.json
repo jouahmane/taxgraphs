@@ -2,26 +2,27 @@
   "taxes": {
     "income": {
       "rate": 0.0495,
+      "useFederalTaxableIncome": true,
       "deductions": {
         "personalExemption": {
           "amount": {
             "single": [
-              [0, 2275],
+              [0, 2000],
               [250000, 0]
             ],
             "married": [
-              [0, 4550],
+              [0, 4000],
               [500000, 0]
             ]
           }
         },
         "dependents": {
-          "amount": 2275
+          "amount": 2000
         }
       },
       "source": {
-        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
+        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
       }
     }
   }

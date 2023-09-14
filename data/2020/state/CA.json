@@ -3,7 +3,7 @@
     "stateDisabilityInsurance": {
       "rate": [
         [0, 0.01],
-        [122909, 0]
+        [118371, 0]
       ],
       "source": {
         "name": "State of California - Rates, Withholding Schedules, and Meals and Lodging Values",
@@ -24,38 +24,38 @@
       "rate": {
         "single": [
           [0, 0.01],
-          [8809, 0.02],
-          [20883, 0.04],
-          [32960, 0.06],
-          [45753, 0.08],
-          [57824, 0.093],
-          [295373, 0.103],
-          [354445, 0.113],
-          [590742, 0.123]
+          [8544, 0.02],
+          [20255, 0.04],
+          [31969, 0.06],
+          [44377, 0.08],
+          [56085, 0.093],
+          [286492, 0.103],
+          [343788, 0.113],
+          [572980, 0.123]
         ],
         "married": [
           [0, 0.01],
-          [17618, 0.02],
-          [41766, 0.04],
-          [65920, 0.06],
-          [91506, 0.08],
-          [115648, 0.093],
-          [590746, 0.103],
-          [708890, 0.113],
-          [1181484, 0.123]
+          [17088, 0.02],
+          [40510, 0.04],
+          [63938, 0.06],
+          [88754, 0.08],
+          [112170, 0.093],
+          [572984, 0.103],
+          [687576, 0.113],
+          [1145960, 0.123]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 4537,
-            "married": 9074
+            "single": 4401,
+            "married": 8802
           }
         },
         "personalExemption": {
           "amount": {
-            "single": 122,
-            "married": 244
+            "single": 118,
+            "married": 236
           },
           "phaseout": {
             "single": {
@@ -73,7 +73,7 @@
           }
         },
         "dependents": {
-          "amount": 378,
+          "amount": 367,
           "phaseout": {
             "single": {
               "start": 194504,
@@ -91,8 +91,8 @@
         }
       },
       "source": {
-        "name": "2020 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-and-brackets-for-2020/"
+        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
       }
     },
     "amt": {
@@ -100,18 +100,18 @@
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 74780,
-            "married": 99707
+            "single": 73748,
+            "married": 98330
           },
           "phaseout": {
             "single": {
-              "start": 280424,
+              "start": 276552,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 373899,
+              "start": 368737,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -120,8 +120,8 @@
         }
       },
       "source": {
-        "name": "2020 Schedule P (540) Alternative Minimum Tax and Credit Limitations - Residents",
-        "url": "//www.ftb.ca.gov/forms/2020/2020-540-p.pdf"
+        "name": "2019 Schedule P (540) Alternative Minimum Tax and Credit Limitations - Residents",
+        "url": "//www.ftb.ca.gov/forms/2019/2019-540-p.pdf"
       }
     }
   }

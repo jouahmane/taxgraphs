@@ -2,17 +2,9 @@
   "taxes": {
     "income": {
       "rate": 0,
-      "deductions": {
-        "personalExemption": {
-          "amount": {
-            "single": 1250,
-            "married": 2500
-          }
-        }
-      },
       "source": {
-        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
-        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
+        "name": "Tennessee - Department of Revenue",
+        "url": "//www.tn.gov/revenue/tntaxes/indinc.shtml"
       }
     }
   }

@@ -5,8 +5,8 @@
       "deductions": {
         "personalExemption": {
           "amount": {
-            "single": 4750,
-            "married": 9500
+            "single": 4400,
+            "married": 8800
           }
         },
         "dependents": {
@@ -14,8 +14,8 @@
         }
       },
       "source": {
-        "name": "2020 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-and-brackets-for-2020/"
+        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
       }
     }
   }

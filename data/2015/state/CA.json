@@ -2,8 +2,8 @@
   "taxes": {
     "stateDisabilityInsurance": {
       "rate": [
-        [0, 0.009],
-        [104378, 0]
+        [0, 0.01],
+        [101636, 0]
       ],
       "source": {
         "name": "State of California - Employment Development Department",
@@ -28,7 +28,7 @@
           [18371, 0.04],
           [28995, 0.06],
           [40250, 0.08],
-          [50689, 0.093],
+          [50869, 0.093],
           [259844, 0.103],
           [311812, 0.113],
           [519687, 0.123]
@@ -48,14 +48,14 @@
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 3992,
-            "married": 7984
+            "single": 3906,
+            "married": 7812
           }
         },
         "personalExemption": {
           "amount": {
-            "single": 108,
-            "married": 216
+            "single": 106,
+            "married": 208
           },
           "phaseout": {
             "single": {
@@ -73,7 +73,7 @@
           }
         },
         "dependents": {
-          "amount": 333,
+          "amount": 326,
           "phaseout": {
             "single": {
               "start": 169730,
@@ -91,8 +91,8 @@
         }
       },
       "source": {
-        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
-        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
+        "name": "State of California - Franchise Tax Board",
+        "url": "//www.ftb.ca.gov/forms/2014_California_Tax_Rates_and_Exemptions.shtml"
       }
     },
     "amt": {
@@ -100,18 +100,18 @@
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 65721,
-            "married": 87627
+            "single": 64878,
+            "married": 86502
           },
           "phaseout": {
             "single": {
-              "start": 246451,
+              "start": 243288,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 328601,
+              "start": 324384,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -120,8 +120,8 @@
         }
       },
       "source": {
-        "name": "2015 Schedule P (540) -- Alternative Minimum Tax and Credit Limitations – Residents",
-        "url": "//www.ftb.ca.gov/forms/2015/15_540p.pdf"
+        "name": "Forms and Publications Search",
+        "url": "//www.ftb.ca.gov/forms/Search/Home/Results"
       }
     }
   }

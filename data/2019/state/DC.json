@@ -12,14 +12,14 @@
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 12200,
-            "married": 24400
+            "single": 12000,
+            "married": 24000
           }
         }
       },
       "source": {
-        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
+        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
       }
     }
   }

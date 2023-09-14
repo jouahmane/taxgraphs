@@ -28,8 +28,8 @@
         }
       },
       "source": {
-        "name": "Social Security Press Office: 2016 Social Security Changes",
-        "url": "//www.ssa.gov/news/press/factsheets/colafacts2016.html"
+        "name": "Social Security Administration - 2015 Social Security Changes",
+        "url": "//www.ssa.gov/news/press/factsheets/colafacts2015.html"
       }
     },
     "socialSecurity": {
@@ -48,29 +48,29 @@
         }
       },
       "source": {
-        "name": "Social Security Press Office: 2016 Social Security Changes",
-        "url": "//www.ssa.gov/news/press/factsheets/colafacts2016.html"
+        "name": "Social Security Administration - 2015 Social Security Changes",
+        "url": "//www.ssa.gov/news/press/factsheets/colafacts2015.html"
       }
     },
     "ordinaryIncome": {
       "rate": {
         "single": [
           [0, 0.1],
-          [9275, 0.15],
-          [37650, 0.25],
-          [91150, 0.28],
-          [190150, 0.33],
-          [413350, 0.35],
-          [415050, 0.396]
+          [9225, 0.15],
+          [37450, 0.25],
+          [90750, 0.28],
+          [189300, 0.33],
+          [411500, 0.35],
+          [413200, 0.396]
         ],
         "married": [
           [0, 0.1],
-          [18550, 0.15],
-          [75300, 0.25],
-          [151900, 0.28],
-          [231450, 0.33],
-          [413350, 0.35],
-          [466950, 0.396]
+          [18450, 0.15],
+          [74900, 0.25],
+          [151200, 0.28],
+          [230450, 0.33],
+          [411500, 0.35],
+          [464850, 0.396]
         ]
       },
       "deductions": {
@@ -81,10 +81,10 @@
           }
         },
         "personalExemption": {
-          "amount": 4050
+          "amount": 4000
         },
         "dependents": {
-          "amount": 4050
+          "amount": 4000
         }
       },
       "credits": {
@@ -92,15 +92,15 @@
           "rate": {
             "single": [
               [0, 0.5],
-              [18501, 0.2],
-              [20001, 0.1],
-              [30751, 0]
+              [18251, 0.2],
+              [19751, 0.1],
+              [30501, 0]
             ],
             "married": [
               [0, 0.5],
-              [37001, 0.2],
-              [40001, 0.1],
-              [61501, 0]
+              [36501, 0.2],
+              [39501, 0.1],
+              [61001, 0]
             ]
           },
           "maximum": 2000,
@@ -112,30 +112,30 @@
         }
       },
       "source": {
-        "name": "Tax Brackets in 2016 - Tax Foundation",
-        "url": "//taxfoundation.org/2016-tax-brackets/"
+        "name": "Tax Foundation - 2015 Tax Brackets",
+        "url": "//taxfoundation.org/article/2015-tax-brackets"
       }
     },
     "amt": {
       "rate": [
         [0, 0.26],
-        [186300, 0.28]
+        [185400, 0.28]
       ],
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 53900,
-            "married": 83800
+            "single": 53600,
+            "married": 83400
           },
           "phaseout": {
             "single": {
-              "start": 119700,
+              "start": 119200,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 159700,
+              "start": 158900,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -144,8 +144,8 @@
         }
       },
       "source": {
-        "name": "Your 2017 Guide to the Alternative Minimum Tax @themotleyfool #stocks",
-        "url": "//www.fool.com/taxes/2017/04/15/your-2017-guide-to-the-alternative-minimum-tax.aspx"
+        "name": "Alternative Minimum Tax: What Is It and Do You Need to Worry About It? @themotleyfool #stocks",
+        "url": "//www.fool.com/investing/general/2015/09/25/alternative-minimum-tax-what-is-it-and-do-you-need.aspx"
       }
     }
   }

@@ -3,15 +3,15 @@
     "income": {
       "rate": 0.0307,
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     },
     "stateUnemploymentInsurance": {
       "rate": 0.0006,
       "source": {
-        "name": "Pennsylvania Issues Unemployment Tax Rates for 2022",
-        "url": "https://news.bloombergtax.com/payroll/pennsylvania-issues-unemployment-tax-rates-for-2022"
+        "name": "Pennsylvania 2021 SUI tax rate factors and taxable wage base to remain the same; COVID-19 benefits are not charged to employer accounts despite information sent to employers",
+        "url": "//taxnews.ey.com/news/2021-0458-pennsylvania-2021-sui-tax-rate-factors-and-taxable-wage-base-to-remain-the-same-covid-19-benefits-are-not-charged-to-employer-accounts-despite-information-sent-to-employers"
       }
     }
   }

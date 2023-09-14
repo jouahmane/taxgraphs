@@ -16,8 +16,8 @@
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 3500,
-            "married": 8000
+            "single": 3000,
+            "married": 7500
           }
         },
         "personalExemption": {
@@ -31,8 +31,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     }
   }

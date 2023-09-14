@@ -15,18 +15,15 @@
           }
         },
         "personalExemption": {
-          "amount": {
-            "single": 930,
-            "married": 1860
-          }
+          "amount": 930
         },
         "dependents": {
           "amount": 930
         }
       },
       "source": {
-        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
-        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
+        "name": "Tax Foundation - State Individual Income Tax Rates",
+        "url": "//taxfoundation.org/article/state-individual-income-tax-rates"
       }
     }
   }

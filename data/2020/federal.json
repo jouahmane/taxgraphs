@@ -28,8 +28,8 @@
         }
       },
       "source": {
-        "name": "OASDI and SSI Program Rates &amp; Limits, 2020",
-        "url": "//www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2020.html"
+        "name": "OASDI and SSI Program Rates &amp; Limits, 2019",
+        "url": "//www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2019.html"
       }
     },
     "socialSecurity": {
@@ -37,47 +37,47 @@
         "employee": {
           "rate": [
             [0, 0.062],
-            [137700, 0]
+            [132900, 0]
           ]
         },
         "selfEmployed": {
           "rate": [
             [0, 0.124],
-            [137700, 0]
+            [132900, 0]
           ]
         }
       },
       "source": {
-        "name": "OASDI and SSI Program Rates &amp; Limits, 2020",
-        "url": "//www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2020.html"
+        "name": "OASDI and SSI Program Rates &amp; Limits, 2019",
+        "url": "//www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2019.html"
       }
     },
     "ordinaryIncome": {
       "rate": {
         "single": [
           [0, 0.1],
-          [9875, 0.12],
-          [40125, 0.22],
-          [85525, 0.24],
-          [163300, 0.32],
-          [207350, 0.35],
-          [518400, 0.37]
+          [9700, 0.12],
+          [39475, 0.22],
+          [84200, 0.24],
+          [160725, 0.32],
+          [204100, 0.35],
+          [510300, 0.37]
         ],
         "married": [
           [0, 0.1],
-          [19750, 0.12],
-          [80250, 0.22],
-          [171050, 0.24],
-          [326600, 0.32],
-          [414700, 0.35],
-          [622050, 0.37]
+          [19400, 0.12],
+          [78950, 0.22],
+          [168400, 0.24],
+          [321450, 0.32],
+          [408200, 0.35],
+          [612350, 0.37]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 12400,
-            "married": 24800
+            "single": 12200,
+            "married": 24400
           }
         }
       },
@@ -86,15 +86,15 @@
           "rate": {
             "single": [
               [0, 0.5],
-              [19501, 0.2],
-              [21251, 0.1],
-              [32501, 0]
+              [19251, 0.2],
+              [20751, 0.1],
+              [32001, 0]
             ],
             "married": [
               [0, 0.5],
-              [39001, 0.2],
-              [42501, 0.1],
-              [65001, 0]
+              [38501, 0.2],
+              [41501, 0.1],
+              [64001, 0]
             ]
           },
           "maximum": 2000,
@@ -106,30 +106,30 @@
         }
       },
       "source": {
-        "name": "2020 Tax Brackets | 2020 Federal Income Tax Brackets &amp; Rates - Tax Foundation",
-        "url": "//taxfoundation.org/2020-tax-brackets/"
+        "name": "2019-2020 Tax Brackets | 2019 Federal Income Tax Brackets &amp; Rates - Tax Foundation",
+        "url": "//taxfoundation.org/2019-tax-brackets"
       }
     },
     "amt": {
       "rate": [
         [0, 0.26],
-        [197900, 0.28]
+        [194800, 0.28]
       ],
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 72900,
-            "married": 113400
+            "single": 71700,
+            "married": 111700
           },
           "phaseout": {
             "single": {
-              "start": 518400,
+              "start": 510300,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 1036800,
+              "start": 1020600,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -138,8 +138,8 @@
         }
       },
       "source": {
-        "name": "2020 Tax Brackets | 2020 Federal Income Tax Brackets &amp; Rates - Tax Foundation",
-        "url": "//taxfoundation.org/2020-tax-brackets/"
+        "name": "2019-2020 Tax Brackets | 2019 Federal Income Tax Brackets &amp; Rates - Tax Foundation",
+        "url": "//taxfoundation.org/2019-tax-brackets"
       }
     }
   }

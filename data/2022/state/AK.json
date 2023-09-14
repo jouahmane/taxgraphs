@@ -3,18 +3,18 @@
     "income": {
       "rate": 0,
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     },
     "employmentSecurity": {
       "rate": [
-        [0, 0.0056],
-        [45200, 0]
+        [0, 0.005],
+        [43600, 0]
       ],
       "source": {
         "name": "Alaska Department of Labor",
-        "url": "https://labor.alaska.gov/estax/faq/w1.htm"
+        "url": "//labor.alaska.gov/estax/faq/w1.htm"
       }
     }
   }

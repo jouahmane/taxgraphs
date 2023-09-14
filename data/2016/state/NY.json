@@ -4,30 +4,30 @@
       "rate": {
         "single": [
           [0, 0.04],
-          [8450, 0.045],
-          [11650, 0.0525],
-          [13850, 0.059],
-          [21300, 0.0645],
-          [80150, 0.0665],
-          [214000, 0.0685],
-          [1070350, 0.0882]
+          [8400, 0.045],
+          [11600, 0.0525],
+          [13750, 0.059],
+          [21150, 0.0645],
+          [79600, 0.0665],
+          [212500, 0.0685],
+          [1062650, 0.0882]
         ],
         "married": [
           [0, 0.04],
-          [17050, 0.045],
-          [23450, 0.0525],
-          [27750, 0.059],
-          [42750, 0.0645],
-          [160500, 0.0665],
-          [321050, 0.0685],
-          [2140900, 0.0882]
+          [16950, 0.045],
+          [23300, 0.0525],
+          [27550, 0.059],
+          [42450, 0.0645],
+          [159350, 0.0665],
+          [318750, 0.0685],
+          [2125450, 0.0882]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 7950,
-            "married": 15950
+            "single": 7900,
+            "married": 15850
           }
         },
         "dependents": {
@@ -35,8 +35,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets for 2016 - Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-and-brackets-2016/"
+        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
+        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
       }
     },
     "stateDisabilityInsurance": {

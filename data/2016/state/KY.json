@@ -11,21 +11,21 @@
       ],
       "deductions": {
         "standardDeduction": {
-          "amount": 2460
+          "amount": 2440
         },
         "personalExemption": {
           "amount": {
-            "single": 10,
-            "married": 10
+            "single": 20,
+            "married": 40
           }
         },
         "dependents": {
-          "amount": 10
+          "amount": 20
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets for 2016 - Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-and-brackets-2016/"
+        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
+        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
       }
     }
   }

@@ -3,7 +3,7 @@
     "stateDisabilityInsurance": {
       "rate": [
         [0, 0.009],
-        [110902, 0]
+        [106742, 0]
       ],
       "source": {
         "name": "State of California - Employment Development Department",
@@ -24,38 +24,38 @@
       "rate": {
         "single": [
           [0, 0.01],
-          [8015, 0.02],
-          [19001, 0.04],
-          [29989, 0.06],
-          [41629, 0.08],
-          [52612, 0.093],
-          [268750, 0.103],
-          [322499, 0.113],
-          [537498, 0.123]
+          [7850, 0.02],
+          [18610, 0.04],
+          [29372, 0.06],
+          [40773, 0.08],
+          [51530, 0.093],
+          [263222, 0.103],
+          [315866, 0.113],
+          [526443, 0.123]
         ],
         "married": [
           [0, 0.01],
-          [16030, 0.02],
-          [38002, 0.04],
-          [59978, 0.06],
-          [83258, 0.08],
-          [105224, 0.093],
-          [537500, 0.103],
-          [644998, 0.113],
-          [1074996, 0.123]
+          [15700, 0.02],
+          [37220, 0.04],
+          [58744, 0.06],
+          [81546, 0.08],
+          [103060, 0.093],
+          [526444, 0.103],
+          [631732, 0.113],
+          [1052886, 0.123]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 4129,
-            "married": 8258
+            "single": 4044,
+            "married": 8088
           }
         },
         "personalExemption": {
           "amount": {
-            "single": 111,
-            "married": 222
+            "single": 109,
+            "married": 218
           },
           "phaseout": {
             "single": {
@@ -73,7 +73,7 @@
           }
         },
         "dependents": {
-          "amount": 344,
+          "amount": 337,
           "phaseout": {
             "single": {
               "start": 178706,
@@ -91,8 +91,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets for 2017 - Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2017/"
+        "name": "State Individual Income Tax Rates and Brackets for 2016 - Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-and-brackets-2016/"
       }
     },
     "amt": {
@@ -100,18 +100,18 @@
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 68846,
-            "married": 91793
+            "single": 67101,
+            "married": 89467
           },
           "phaseout": {
             "single": {
-              "start": 258168,
+              "start": 251626,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 344225,
+              "start": 335502,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -120,8 +120,8 @@
         }
       },
       "source": {
-        "name": "2017 Schedule P (540) Alternative Minimum Tax and Credit Limitations - Residents",
-        "url": "//www.ftb.ca.gov/forms/2017/17_540p.pdf"
+        "name": "Taxable Year 2016 Alternative Minimum Tax and Credit Limitations - Residents California Schedule P (540)",
+        "url": "//www.ftb.ca.gov/forms/2016/16_540p.pdf"
       }
     }
   }

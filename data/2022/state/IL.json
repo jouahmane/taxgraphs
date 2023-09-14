@@ -6,22 +6,22 @@
         "personalExemption": {
           "amount": {
             "single": [
-              [0, 2375],
+              [0, 2325],
               [250000, 0]
             ],
             "married": [
-              [0, 4750],
+              [0, 4650],
               [500000, 0]
             ]
           }
         },
         "dependents": {
-          "amount": 2375
+          "amount": 2325
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     }
   }

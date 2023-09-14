@@ -3,8 +3,8 @@
     "income": {
       "rate": 0.0307,
       "source": {
-        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
-        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
+        "name": "REV-414I -- 2014 Individuals Worksheet for PA Estimated Tax",
+        "url": "//www.revenue.pa.gov/FormsandPublications/FormsforIndividuals/Documents/Personal%20Income%20Tax/2014/2014_rev-414i.pdf"
       }
     },
     "stateUnemploymentInsurance": {

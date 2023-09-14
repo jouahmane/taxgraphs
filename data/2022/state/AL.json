@@ -21,13 +21,13 @@
           },
           "phaseout": {
             "single": {
-              "start": 23500,
+              "start": 23000,
               "step": 500,
               "reduction": 25,
               "minimum": 2000
             },
             "married": {
-              "start": 23500,
+              "start": 23000,
               "step": 500,
               "reduction": 175,
               "minimum": 4000
@@ -49,8 +49,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     }
   }

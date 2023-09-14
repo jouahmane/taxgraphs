@@ -4,37 +4,34 @@
       "rate": {
         "single": [
           [0, 0.04],
-          [11090, 0.0584],
-          [22190, 0.0627],
-          [244270, 0.0765]
+          [10910, 0.0584],
+          [21820, 0.0627],
+          [240190, 0.0765]
         ],
         "married": [
           [0, 0.04],
-          [14790, 0.0584],
-          [29580, 0.0627],
-          [325700, 0.0765]
+          [14540, 0.0584],
+          [29090, 0.0627],
+          [320250, 0.0765]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 10250,
-            "married": 18460
+            "single": 9930,
+            "married": 17880
           }
         },
         "personalExemption": {
-          "amount": {
-            "single": 700,
-            "married": 1400
-          }
+          "amount": 700
         },
         "dependents": {
           "amount": 700
         }
       },
       "source": {
-        "name": "Tax Foundation - State Individual Income Tax Rates and Brackets for 2015",
-        "url": "//taxfoundation.org/article/state-individual-income-tax-rates-and-brackets-2015"
+        "name": "Wisconsin Department of Revenue",
+        "url": "//www.revenue.wi.gov/taxpro/calctbls.html"
       }
     }
   }

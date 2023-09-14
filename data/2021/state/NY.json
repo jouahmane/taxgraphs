@@ -7,8 +7,8 @@
           [8500, 0.045],
           [11700, 0.0525],
           [13900, 0.059],
-          [21400, 0.0597],
-          [80650, 0.0633],
+          [21400, 0.0621],
+          [80650, 0.0649],
           [215400, 0.0685],
           [1077550, 0.0882]
         ],
@@ -17,8 +17,8 @@
           [17150, 0.045],
           [23600, 0.0525],
           [27900, 0.059],
-          [43000, 0.0597],
-          [161550, 0.0633],
+          [43000, 0.0609],
+          [161550, 0.0641],
           [323200, 0.0685],
           [2155350, 0.0882]
         ]
@@ -35,8 +35,8 @@
         }
       },
       "source": {
-        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
-        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
+        "name": "2020 State Individual Income Tax Rates and Brackets | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-and-brackets-for-2020/"
       }
     },
     "stateDisabilityInsurance": {

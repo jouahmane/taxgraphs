@@ -34,38 +34,38 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     },
     "unemploymentInsurance": {
       "rate": [
         [0, 0.003825],
-        [39800, 0]
+        [36200, 0]
       ],
       "source": {
         "name": "Division of Employer Accounts | Rate information, contributions, and due dates",
-        "url": "https://www.nj.gov/labor/ea/employer-services/rate-info/"
+        "url": "//www.nj.gov/labor/ea/employer-services/rate-info/"
       }
     },
     "disabilityInsurance": {
       "rate": [
-        [0, 0.0014],
-        [151900, 0]
+        [0, 0.0047],
+        [36200, 0]
       ],
       "source": {
         "name": "Division of Employer Accounts | Rate information, contributions, and due dates",
-        "url": "https://www.nj.gov/labor/ea/employer-services/rate-info/"
+        "url": "//www.nj.gov/labor/ea/employer-services/rate-info/"
       }
     },
     "familyLeaveInsurance": {
       "rate": [
-        [0, 0.0014],
-        [151900, 0]
+        [0, 0.0028],
+        [36200, 0]
       ],
       "source": {
         "name": "Division of Employer Accounts | Rate information, contributions, and due dates",
-        "url": "https://www.nj.gov/labor/ea/employer-services/rate-info/"
+        "url": "//www.nj.gov/labor/ea/employer-services/rate-info/"
       }
     }
   }

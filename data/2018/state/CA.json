@@ -2,12 +2,12 @@
   "taxes": {
     "stateDisabilityInsurance": {
       "rate": [
-        [0, 0.01],
-        [114967, 0]
+        [0, 0.009],
+        [110902, 0]
       ],
       "source": {
-        "name": "State of California - Rates, Withholding Schedules, and Meals and Lodging Values",
-        "url": "//www.edd.ca.gov/payroll_taxes/rates_and_withholding.htm"
+        "name": "State of California - Employment Development Department",
+        "url": "//www.edd.ca.gov/Payroll_Taxes/Rates_-_Historical.htm#UIETT2016"
       }
     },
     "mentalHealthServices": {
@@ -24,38 +24,38 @@
       "rate": {
         "single": [
           [0, 0.01],
-          [8223, 0.02],
-          [19495, 0.03],
-          [30769, 0.04],
-          [42711, 0.08],
-          [53980, 0.093],
-          [275738, 0.103],
-          [330884, 0.113],
-          [551473, 0.123]
+          [8015, 0.02],
+          [19001, 0.04],
+          [29989, 0.06],
+          [41629, 0.08],
+          [52612, 0.093],
+          [268750, 0.103],
+          [322499, 0.113],
+          [537498, 0.123]
         ],
         "married": [
           [0, 0.01],
-          [16446, 0.02],
-          [38990, 0.04],
-          [61538, 0.06],
-          [85422, 0.08],
-          [107960, 0.093],
-          [551476, 0.103],
-          [661768, 0.113],
+          [16030, 0.02],
+          [38002, 0.04],
+          [59978, 0.06],
+          [83258, 0.08],
+          [105224, 0.093],
+          [537500, 0.103],
+          [644998, 0.113],
           [1074996, 0.123]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 4236,
-            "married": 8472
+            "single": 4129,
+            "married": 8258
           }
         },
         "personalExemption": {
           "amount": {
-            "single": 114,
-            "married": 228
+            "single": 111,
+            "married": 222
           },
           "phaseout": {
             "single": {
@@ -73,7 +73,7 @@
           }
         },
         "dependents": {
-          "amount": 353,
+          "amount": 344,
           "phaseout": {
             "single": {
               "start": 178706,
@@ -91,8 +91,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
+        "name": "State Individual Income Tax Rates and Brackets for 2017 - Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2017/"
       }
     },
     "amt": {
@@ -100,18 +100,18 @@
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 71531,
-            "married": 95373
+            "single": 68846,
+            "married": 91793
           },
           "phaseout": {
             "single": {
-              "start": 268237,
+              "start": 258168,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 357650,
+              "start": 344225,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -120,8 +120,8 @@
         }
       },
       "source": {
-        "name": "2018 Schedule P (540) - Alternative Minimum Tax and Credit Limitations - Residents",
-        "url": "//www.ftb.ca.gov/forms/2018/18_540p.pdf"
+        "name": "2017 Schedule P (540) Alternative Minimum Tax and Credit Limitations - Residents",
+        "url": "//www.ftb.ca.gov/forms/2017/17_540p.pdf"
       }
     }
   }

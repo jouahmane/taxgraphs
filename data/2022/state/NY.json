@@ -6,23 +6,21 @@
           [0, 0.04],
           [8500, 0.045],
           [11700, 0.0525],
-          [13900, 0.0585],
-          [80650, 0.0625],
+          [13900, 0.059],
+          [21400, 0.0597],
+          [80650, 0.0633],
           [215400, 0.0685],
-          [1077550, 0.0965],
-          [5000000, 0.1030],
-          [25000000, 0.1090]
+          [1077550, 0.0882]
         ],
         "married": [
           [0, 0.04],
           [17150, 0.045],
           [23600, 0.0525],
-          [27900, 0.0585],
-          [161550, 0.0625],
+          [27900, 0.059],
+          [43000, 0.0597],
+          [161550, 0.0633],
           [323200, 0.0685],
-          [2155350, 0.0965],
-          [5000000, 0.1030],
-          [25000000, 0.1090]
+          [2155350, 0.0882]
         ]
       },
       "deductions": {
@@ -37,18 +35,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
-      }
-    },
-    "stateUnemploymentInsurance": {
-      "rate": [
-        [0, 0.04025],
-        [11800, 0]
-      ],
-      "source": {
-        "name": "Payroll Taxes - New York State Tax Information",
-        "url": "https://www.paycheckcity.com/payroll-resources/new-york"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     },
     "stateDisabilityInsurance": {
@@ -58,17 +46,7 @@
       ],
       "source": {
         "name": "Payroll Taxes - New York State Tax Information",
-        "url": "https://www.paycheckcity.com/payroll-resources/new-york"
-      }
-    },
-    "familyLeaveInsurance": {
-      "rate": [
-        [0, 0.0027],
-        [134900, 0]
-      ],
-      "source": {
-        "name": "Payroll Taxes - New York State Tax Information",
-        "url": "https://www.paycheckcity.com/payroll-resources/new-york"
+        "url": "//www.payroll-taxes.com/state-tax/new-york"
       }
     }
   }

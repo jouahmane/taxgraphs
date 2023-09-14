@@ -28,8 +28,8 @@
         }
       },
       "source": {
-        "name": "OASDI and SSI Program Rates &amp; Limits, 2017",
-        "url": "//www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2017.html"
+        "name": "Social Security Press Office: 2016 Social Security Changes",
+        "url": "//www.ssa.gov/news/press/factsheets/colafacts2016.html"
       }
     },
     "socialSecurity": {
@@ -37,40 +37,40 @@
         "employee": {
           "rate": [
             [0, 0.062],
-            [127200, 0]
+            [118500, 0]
           ]
         },
         "selfEmployed": {
           "rate": [
             [0, 0.124],
-            [127200, 0]
+            [118500, 0]
           ]
         }
       },
       "source": {
-        "name": "OASDI and SSI Program Rates &amp; Limits, 2017",
-        "url": "//www.ssa.gov/policy/docs/quickfacts/prog_highlights/RatesLimits2017.html"
+        "name": "Social Security Press Office: 2016 Social Security Changes",
+        "url": "//www.ssa.gov/news/press/factsheets/colafacts2016.html"
       }
     },
     "ordinaryIncome": {
       "rate": {
         "single": [
           [0, 0.1],
-          [9325, 0.15],
-          [37950, 0.25],
-          [91900, 0.28],
-          [191650, 0.33],
-          [416700, 0.35],
-          [418400, 0.396]
+          [9275, 0.15],
+          [37650, 0.25],
+          [91150, 0.28],
+          [190150, 0.33],
+          [413350, 0.35],
+          [415050, 0.396]
         ],
         "married": [
           [0, 0.1],
-          [18650, 0.15],
-          [75900, 0.25],
-          [153100, 0.28],
-          [233350, 0.33],
-          [416700, 0.35],
-          [470750, 0.396]
+          [18550, 0.15],
+          [75300, 0.25],
+          [151900, 0.28],
+          [231450, 0.33],
+          [413350, 0.35],
+          [466950, 0.396]
         ]
       },
       "deductions": {
@@ -81,10 +81,10 @@
           }
         },
         "personalExemption": {
-          "amount": 4000
+          "amount": 4050
         },
         "dependents": {
-          "amount": 4000
+          "amount": 4050
         }
       },
       "credits": {
@@ -94,13 +94,13 @@
               [0, 0.5],
               [18501, 0.2],
               [20001, 0.1],
-              [31001, 0]
+              [30751, 0]
             ],
             "married": [
               [0, 0.5],
               [37001, 0.2],
               [40001, 0.1],
-              [62001, 0]
+              [61501, 0]
             ]
           },
           "maximum": 2000,
@@ -112,30 +112,30 @@
         }
       },
       "source": {
-        "name": "Tax Brackets in 2017 - Tax Foundation",
-        "url": "//taxfoundation.org/2017-tax-brackets/"
+        "name": "Tax Brackets in 2016 - Tax Foundation",
+        "url": "//taxfoundation.org/2016-tax-brackets/"
       }
     },
     "amt": {
       "rate": [
         [0, 0.26],
-        [187800, 0.28]
+        [186300, 0.28]
       ],
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 54300,
-            "married": 84500
+            "single": 53900,
+            "married": 83800
           },
           "phaseout": {
             "single": {
-              "start": 120700,
+              "start": 119700,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 160900,
+              "start": 159700,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -144,8 +144,8 @@
         }
       },
       "source": {
-        "name": "Tax Brackets in 2017 - Tax Foundation",
-        "url": "//taxfoundation.org/2017-tax-brackets/"
+        "name": "Your 2017 Guide to the Alternative Minimum Tax @themotleyfool #stocks",
+        "url": "//www.fool.com/taxes/2017/04/15/your-2017-guide-to-the-alternative-minimum-tax.aspx"
       }
     }
   }

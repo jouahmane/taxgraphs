@@ -3,7 +3,7 @@
     "stateDisabilityInsurance": {
       "rate": [
         [0, 0.01],
-        [118371, 0]
+        [114967, 0]
       ],
       "source": {
         "name": "State of California - Rates, Withholding Schedules, and Meals and Lodging Values",
@@ -24,48 +24,48 @@
       "rate": {
         "single": [
           [0, 0.01],
-          [8544, 0.02],
-          [20255, 0.04],
-          [31969, 0.06],
-          [44377, 0.08],
-          [56085, 0.093],
-          [286492, 0.103],
-          [343788, 0.113],
-          [572980, 0.123]
+          [8223, 0.02],
+          [19495, 0.03],
+          [30769, 0.04],
+          [42711, 0.08],
+          [53980, 0.093],
+          [275738, 0.103],
+          [330884, 0.113],
+          [551473, 0.123]
         ],
         "married": [
           [0, 0.01],
-          [17088, 0.02],
-          [40510, 0.04],
-          [63938, 0.06],
-          [88754, 0.08],
-          [112170, 0.093],
-          [572984, 0.103],
-          [687576, 0.113],
-          [1145960, 0.123]
+          [16446, 0.02],
+          [38990, 0.04],
+          [61538, 0.06],
+          [85422, 0.08],
+          [107960, 0.093],
+          [551476, 0.103],
+          [661768, 0.113],
+          [1074996, 0.123]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 4401,
-            "married": 8802
+            "single": 4236,
+            "married": 8472
           }
         },
         "personalExemption": {
           "amount": {
-            "single": 118,
-            "married": 236
+            "single": 114,
+            "married": 228
           },
           "phaseout": {
             "single": {
-              "start": 194504,
+              "start": 178706,
               "step": 2500,
               "reduction": 6,
               "minimum": 0
             },
             "married": {
-              "start": 389013,
+              "start": 357417,
               "step": 2500,
               "reduction": 12,
               "minimum": 0
@@ -73,16 +73,16 @@
           }
         },
         "dependents": {
-          "amount": 367,
+          "amount": 353,
           "phaseout": {
             "single": {
-              "start": 194504,
+              "start": 178706,
               "step": 2500,
               "reduction": 6,
               "minimum": 0
             },
             "married": {
-              "start": 389013,
+              "start": 357417,
               "step": 2500,
               "reduction": 12,
               "minimum": 0
@@ -91,8 +91,8 @@
         }
       },
       "source": {
-        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
+        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
       }
     },
     "amt": {
@@ -100,18 +100,18 @@
       "deductions": {
         "amtExemption": {
           "amount": {
-            "single": 73748,
-            "married": 98330
+            "single": 71531,
+            "married": 95373
           },
           "phaseout": {
             "single": {
-              "start": 276552,
+              "start": 268237,
               "step": 400,
               "reduction": 100,
               "minimum": 0
             },
             "married": {
-              "start": 368737,
+              "start": 357650,
               "step": 400,
               "reduction": 100,
               "minimum": 0
@@ -120,8 +120,8 @@
         }
       },
       "source": {
-        "name": "2019 Schedule P (540) Alternative Minimum Tax and Credit Limitations - Residents",
-        "url": "//www.ftb.ca.gov/forms/2019/2019-540-p.pdf"
+        "name": "2018 Schedule P (540) - Alternative Minimum Tax and Credit Limitations - Residents",
+        "url": "//www.ftb.ca.gov/forms/2018/18_540p.pdf"
       }
     }
   }

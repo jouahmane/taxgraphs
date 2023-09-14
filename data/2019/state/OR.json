@@ -4,37 +4,37 @@
       "rate": {
         "single": [
           [0, 0.05],
-          [3550, 0.07],
-          [8900, 0.09],
+          [3450, 0.07],
+          [8700, 0.09],
           [125000, 0.099]
         ],
         "married": [
           [0, 0.05],
-          [7100, 0.07],
-          [17800, 0.09],
+          [6900, 0.07],
+          [17400, 0.09],
           [250000, 0.099]
         ]
       },
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 2270,
-            "married": 4545
+            "single": 2175,
+            "married": 4350
           }
         },
         "personalExemption": {
           "amount": {
-            "single": 206,
-            "married": 412
+            "single": 90,
+            "married": 180
           }
         },
         "dependents": {
-          "amount": 206
+          "amount": 90
         }
       },
       "source": {
-        "name": "2019 State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2019/"
+        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
       }
     }
   }

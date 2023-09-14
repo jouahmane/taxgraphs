@@ -3,27 +3,27 @@
     "income": {
       "rate": [
         [0, 0],
-        [108, 0.015],
-        [1088, 0.02],
-        [2176, 0.025],
-        [3264, 0.03],
-        [4352, 0.035],
-        [5440, 0.04],
-        [6528, 0.045],
-        [7616, 0.05],
-        [8704, 0.054]
+        [107, 0.015],
+        [1073, 0.02],
+        [2146, 0.025],
+        [3219, 0.03],
+        [4292, 0.035],
+        [5365, 0.04],
+        [6438, 0.045],
+        [7511, 0.05],
+        [8584, 0.054]
       ],
       "deductions": {
         "standardDeduction": {
           "amount": {
-            "single": 12950,
-            "married": 25900
+            "single": 12550,
+            "married": 25100
           }
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets | Tax Foundation",
-        "url": "https://taxfoundation.org/publications/state-individual-income-tax-rates-and-brackets/"
+        "name": "State Income Tax Rates and Brackets, 2021 | Tax Foundation",
+        "url": "//taxfoundation.org/state-income-tax-rates-2021/"
       }
     }
   }

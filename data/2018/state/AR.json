@@ -5,18 +5,18 @@
         "single": [
           [0, 0.009],
           [4299, 0.025],
-          [8499, 0.035],
+          [8500, 0.035],
           [12699, 0.045],
           [21199, 0.06],
-          [35099, 0.069]
+          [35100, 0.069]
         ],
         "married": [
           [0, 0.009],
           [4299, 0.025],
-          [8499, 0.035],
+          [8500, 0.035],
           [12699, 0.045],
           [21199, 0.06],
-          [35099, 0.069]
+          [35100, 0.069]
         ]
       },
       "deductions": {
@@ -37,8 +37,8 @@
         }
       },
       "source": {
-        "name": "State Individual Income Tax Rates and Brackets for 2018 | Tax Foundation",
-        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2018/"
+        "name": "State Individual Income Tax Rates and Brackets for 2017 - Tax Foundation",
+        "url": "//taxfoundation.org/state-individual-income-tax-rates-brackets-2017/"
       }
     }
   }
